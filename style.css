@@ -12,7 +12,7 @@
     height: 50px;
     background-color: red;
     position: relative;
-    top: 150px;
+    top: 150px;   
 }
 .animate{
     animation: jump 500ms infinite;
